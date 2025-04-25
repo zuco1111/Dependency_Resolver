@@ -6,7 +6,7 @@ ComfyUI中很多插件都存在依赖冲突，导致装了一个插件环境崩�
 
 ## 安装
 ```
-git clone https://github.com/zuco1111/ai-rss-filter.git
+git clone https://github.com/zuco1111/Dependency_Resolver.git
 ```
 运行 `install.bat` 文件
 
