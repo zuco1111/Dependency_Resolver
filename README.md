@@ -6,7 +6,7 @@ Many ComfyUI plugins have dependency conflicts. This tool is used to check wheth
 
 ## Installation
 ```
-git clone https://github.com/zuco1111/ai-rss-filter.git
+git clone https://github.com/zuco1111/Dependency_Resolver.git
 ```
 And run `install.bat`
 
